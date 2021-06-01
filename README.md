@@ -1,2 +1,3 @@
 # film recommendations
-movies
+
+Collaborators: Naomi Weinberger, Harrison Gu, Taylor Hale Robert
