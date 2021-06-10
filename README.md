@@ -3,9 +3,9 @@
 
 # film recommendations
 
-**Authors**: [Taylor Hale Robert](mailto:taylorhale11@gmail.com)
-                [Naomi Weinberger](mailto:weinberger.naomi@gmail.com)
-                [Harrison Gu](mailto:Harrison.s.gu@gmail.com)
+**Authors**: <br>[Taylor Hale Robert](mailto:taylorhale11@gmail.com)
+                <br>[Naomi Weinberger](mailto:weinberger.naomi@gmail.com)
+                <br>[Harrison Gu](mailto:Harrison.s.gu@gmail.com)
 
 
 ## Overview
@@ -36,10 +36,10 @@ Further analyses could yield additional insights and improve understanding of th
 
 See the full analysis in the [Jupyter Notebook](./2000-2020_film_analysis.ipynb) or review this [presentation](./Film_Recommendations_Presentation.pdf).
 
-For additional info, contact the authors at:
+For additional info, contact the authors at:<br>
 [Taylor Hale Robert](mailto:taylorhale11@gmail.com)
-[Naomi Weinberger](mailto:weinberger.naomi@gmail.com)
-[Harrison Gu](mailto:Harrison.s.gu@gmail.com)
+<br>[Naomi Weinberger](mailto:weinberger.naomi@gmail.com)
+<br>[Harrison Gu](mailto:Harrison.s.gu@gmail.com)
 
 
 ## Repository Structure
