@@ -1,7 +1,7 @@
 ![Photo by <a href="https://unsplash.com/@jakobowens1?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jakob Owens</a> on <a href="https://unsplash.com/@halemade/likes?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   ](./images/jakob-owens-sOWoC7fA5DA-unsplash.jpg)
 
-# film recommendations
+# MICROSOFT studio: Film Recommendations
 
 **Authors**: <br>[Taylor Hale Robert](mailto:taylorhale11@gmail.com)
                 <br>[Naomi Weinberger](mailto:weinberger.naomi@gmail.com)
