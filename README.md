@@ -16,9 +16,9 @@ This project analyzes the climate over the last 20 years in the film industry. D
 
 We worked across 3 different data sources for this anaylysis:
 
-- IMDB data was used for our genre and director analysis
-- TMDb, from which we used both the provided datasets and accessed the API
-- The Numbers, as a provided data set
+- [IMDB](https://www.imdb.com/) data was used for our genre and director analysis
+- [TMDb](https://www.themoviedb.org/), from which we used both the provided datasets and accessed the API
+- [The Numbers](https://www.the-numbers.com/), as a provided data set
 
 We used ROI as a metric for the majority of most of our analysis, in an effort to discern characteristics of films that most consistently yield valuable returns.
 ## Analysis
@@ -35,7 +35,7 @@ This analysis leads to five recommendations for MS2021:
 - **Pay attention to film MPAA rating** Films with the highest investments have the highest rate of return.
 - **Work within the most popular genres.** Films with the highest investments have the highest rate of return.
 - **Hire highly rated directors** Films with the highest investments have the highest rate of return.
-- **Make films that run between 90-130 minutes.** Films outside of this range drop drastically in performance.
+- **Create films that run between 90-130 minutes, or over 130 minutes for a higher but more variable ROI.** Films below of this range drop drastically in performance.
 - **Release films on Friday, ideally in the months of March-April or November-December** ROI is highest during these periods, regardless of genre.
 
 ### Next Steps
@@ -59,12 +59,15 @@ For additional info, contact the authors at:<br>
 
 ```
 ├── code
-│   ├── __init__.py
-│   ├── data_preparation.ipynb
-│   └── eda_notebook.ipynb
-├── data
+│   ├── explore_budget_final.ipynb
+│   ├── User_Ratings_Genre_Director.ipynb
+│   ├── explore_data.ipynb
+│   ├── parse_genres.ipynb
+│   ├── ratings_final.ipynb
+│   └── release_and_ROI.ipynb
+├── zippedData
 ├── images
-├── __init__.py
+├── .gitignore
 ├── README.md
 ├── Film_Recommendations_Presentation.pdf
 └── 2000-2020_film_analysis.ipynb
