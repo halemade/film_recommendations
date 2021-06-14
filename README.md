@@ -35,7 +35,7 @@ This analysis leads to five recommendations for MS2021:
 - **Pay attention to film MPAA rating** Films with the highest investments have the highest rate of return.
 - **Work within the most popular genres.** Films with the highest investments have the highest rate of return.
 - **Hire highly rated directors** Films with the highest investments have the highest rate of return.
-- **Make films that run between 90-130 minutes.** Films outside of this range drop drastically in performance.
+- **Create films that run between 90-130 minutes, or over 130 minutes for a higher but more variable ROI.** Films below of this range drop drastically in performance.
 - **Release films on Friday, ideally in the months of March-April or November-December** ROI is highest during these periods, regardless of genre.
 
 ### Next Steps
