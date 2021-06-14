@@ -16,9 +16,9 @@ This project analyzes the climate over the last 20 years in the film industry. D
 
 We worked across 3 different data sources for this anaylysis:
 
-- IMDB data was used for our genre and director analysis
-- TMDb, from which we used both the provided datasets and accessed the API
-- The Numbers, as a provided data set
+- [IMDB](https://www.imdb.com/) data was used for our genre and director analysis
+- [TMDb](https://www.themoviedb.org/), from which we used both the provided datasets and accessed the API
+- [The Numbers](https://www.the-numbers.com/), as a provided data set
 
 We used ROI as a metric for the majority of most of our analysis, in an effort to discern characteristics of films that most consistently yield valuable returns.
 ## Analysis
@@ -59,12 +59,15 @@ For additional info, contact the authors at:<br>
 
 ```
 ├── code
-│   ├── __init__.py
-│   ├── data_preparation.ipynb
-│   └── eda_notebook.ipynb
-├── data
+│   ├── explore_budget_final.ipynb
+│   ├── User_Ratings_Genre_Director.ipynb
+│   ├── explore_data.ipynb
+│   ├── parse_genres.ipynb
+│   ├── ratings_final.ipynb
+│   └── release_and_ROI.ipynb
+├── zippedData
 ├── images
-├── __init__.py
+├── .gitignore
 ├── README.md
 ├── Film_Recommendations_Presentation.pdf
 └── 2000-2020_film_analysis.ipynb
