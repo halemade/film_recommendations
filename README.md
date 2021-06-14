@@ -23,7 +23,7 @@ We worked across 3 different data sources for this anaylysis:
 We used ROI as a metric for the majority of most of our analysis, in an effort to discern characteristics of films that most consistently yield valuable returns.
 ## Analysis
 
-After our initial analysis revealed a positive correlation between hgih budget and high %ROI, we continued our analysis and created our visualizations based on a subset of films with budgets >= 100 mil. 
+After our initial analysis revealed a positive correlation between hgih budget and high %ROI, we continued our analysis and created our visualizations based on a subset of films with budgets >= 100 mil. <br>
 ![Photo by <a href="https://github.com/halemade/film_recommendations/blob/main/images/budgets%202.PNG">Harrison Gu</a> on <a href="https://github.com/halemade/film_recommendations/blob/main/images/budgets%202.PNG"></a>
   ](./images/budgets%202.PNG)
 
