@@ -20,7 +20,7 @@ We worked across 3 different data sources for this anaylysis:
 - [TMDb](https://www.themoviedb.org/), from which we used both the provided datasets and accessed the API
 - [The Numbers](https://www.the-numbers.com/), as a provided data set
 
-We used ROI as a metric for the majority of most of our analysis, in an effort to discern characteristics of films that most consistently yield valuable returns.
+We used ROI as a metric for the majority of most of our analysis, in an effort to discern characteristics of films that most consistently yield valuable returns.In cases where ROI information wasn't available, we used user rating. 
 ## Analysis
 
 After our initial analysis revealed a positive correlation between hgih budget and high %ROI, we continued our analysis and created our visualizations based on a subset of films with budgets >= 100 mil. <br><br>
