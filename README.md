@@ -46,8 +46,8 @@ This analysis leads to five recommendations for MS2021:
 Further analyses could yield additional insights and improve understanding of the industry:
 
 - **Explore ROI for the IMDB information and get more recent data** 
-- **Analyze specific subsections, e.g. low budget comedy films ** 
-- - **Explore the effect streaming services and the recent changes to how studios are releasing on the performance of films ** 
+- **Analyze specific subsections, e.g. low budget comedy films** 
+- **Explore the effect streaming services and the recent changes to how studios are releasing on the performance of films ** 
 
 ## For More Information
 
